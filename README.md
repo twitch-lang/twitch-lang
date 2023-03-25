@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twitch-lang
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on A resposive web design with a backend dev
 - 📫 How to reach me https://twitter.com/bra_kkwesi
 
